@@ -1,0 +1,11 @@
+{
+  "name": "PropRenderMixin",
+  "version": "1.0.0",
+  "description": "Prop Render Mixin for React Components",
+  "main": "PropRenderMixin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Justin Woo",
+  "license": "MIT"
+}
